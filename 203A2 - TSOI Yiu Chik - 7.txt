@@ -1,0 +1,32 @@
+Group Number: 203A2
+Group Leader: TSOI Yiu Chik
+Proposal Mark: 7 / 10
+
+Q1 - description
+The goal and benefit of the system may need some explanations.
+Is it a business management solution for a retail store?
+
+Q2 - data to be stored
+You should explain the overall purpose of the data fields.
+Instead of just a list of field/table names.
+
+Q3 - users
+The user section is well written with clear explanation.
+
+Q4 - usage
+Given a team of 4 members, we would expect more detailed operations in the database.
+The scope of the project may need to be larger than just managing the products, and financial records.
+
+Language and grammar:
+The report writing style seems quite complicated. You may shorten the sentences to simplify them.
+For example, "Since this database is to design for storage usage, 
+the purpose of this database is to manage every trade record, 
+store product cost, store product information, 
+calculate total income and total spend, calculate total stock of product, etc."
+The above sentence could be splitted into a few sentences.
+"This database is designed for storing business related records.
+This would include trading record, product storage cost, financial related records and other related records."
+
+Overall
+The overall project idea need to be more specific.
+The scope of the project may need to expand a bit for a team of 4.
